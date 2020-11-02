@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<drawings>
+<condition type="Hard">
+	<teeth num="37">
+		<page pg="1">
+			<tab num="1">176,520,223,927</tab>
+			<tab num="2">760,1856,1209,1998</tab>
+			<tab num="3">1565,1856,2015,1998</tab>
+			<tab num="4">760,3258,1209,3388</tab>
+			<tab num="5">1565,3258,2015,3388</tab>
+		</page>
+		<page pg="2">
+			<tab num="1">1000,2545,1293,2789</tab>
+			<tab num="2">1639,2545,1931,2789</tab>
+			<tab num="3">1000,3340,1301,3438</tab>
+			<tab num="4">1821,3180,2239,3274</tab>
+			<tab num="5">1839,3400,2243,3438</tab>
+		</page>
+	</teeth>
+	<teeth num="43">
+		<page pg="1">
+			<tab num="1">176,520,223,927</tab>
+			<tab num="2">760,1856,1209,1998</tab>
+			<tab num="3">1565,1856,2015,1998</tab>
+			<tab num="4">760,3258,1209,3437</tab>
+			<tab num="5">1565,3258,2015,3437</tab>
+		</page>
+		<page pg="2">
+			<tab num="1">1000,2545,1293,2789</tab>
+			<tab num="2">1639,2545,1931,2789</tab>
+			<tab num="3">1000,3340,1301,3438</tab>
+			<tab num="4">1821,3180,2239,3274</tab>
+			<tab num="5">1839,3400,2243,3438</tab>
+		</page>
+	</teeth>
+</condition>
+</drawings>
